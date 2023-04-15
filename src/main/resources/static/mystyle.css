@@ -1,0 +1,13 @@
+body{
+    background: aquamarine;
+}
+
+.container{
+    background: bisque;
+    padding:40px;
+    font-family: Arial;
+}
+
+.profile{
+    border-radius:50% ;
+}
